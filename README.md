@@ -10,11 +10,12 @@ Name | Summary | Language
 [Tidal](https://github.com/tidalcycles/Tidal) | language for live coding of pattern | Haskell
 [Alda](https://github.com/alda-lang/alda) | music programming language for musicians | Clojure
 [Gibber](https://github.com/charlieroberts/Gibber) | live coding environment for the web browser | Javascript
+[Extempore](https://github.com/digego/extempore) | cyber-physical programming environment | C/C++/Scheme
+[FoxDot](https://github.com/Qirky/FoxDot) | pre-processed Python programming environment that provides a fast and user-friendly abstraction to SuperCollider | Python
 
 ## Libraries
 Name | Summary | Language 
 ----------| ----- | --------- 
-[FoxDot](https://github.com/Qirky/FoxDot) | pre-processed Python programming environment that provides a fast and user-friendly abstraction to SuperCollider | Python
 [Klangmeister](https://github.com/ctford/klangmeister) | musical scratchpad | ClojureScript
 [Leipzig](https://github.com/ctford/leipzig) | composition library for Clojure and Clojurescript | Clojure, ClojureScript
 [Disclojure](https://github.com/pjagielski/disclojure) | live coding environment for Overtone and Leipzig | Clojure
