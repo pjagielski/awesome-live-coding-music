@@ -10,7 +10,7 @@ Name | Summary | Language
 [Sonic Pi](https://github.com/samaaron/sonic-pi) | complete open source programming environment originally designed to explore and teach programming concepts | Ruby
 [Overtone](https://github.com/overtone/overtone) | open source audio environment designed to explore new musical ideas from synthesis and sampling to instrument building, live-coding and collaborative jamming | Clojure
 [Tidal](https://github.com/tidalcycles/Tidal) | language for live coding of pattern | Haskell
-[Alda](https://github.com/alda-lang/alda) | music programming language for musicians | Clojure
+[Alda](https://github.com/alda-lang/alda) | music programming language for musicians | Alda/Clojure
 [Gibber](https://github.com/charlieroberts/Gibber) | live coding environment for the web browser | Javascript
 [Extempore](https://github.com/digego/extempore) | cyber-physical programming environment | Scheme-like
 [FoxDot](https://github.com/Qirky/FoxDot) | pre-processed Python programming environment that provides a fast and user-friendly abstraction to SuperCollider | Python
