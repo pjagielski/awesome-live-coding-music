@@ -28,5 +28,6 @@ Author | Summary | Environment
 -------|---------|------------
 Sam Aaron | [Programming Music with Overtone](https://www.youtube.com/watch?v=imoWGsipe4k) | Overtone
 Sam Aaron | [Teaching computer science with music](https://www.youtube.com/watch?v=KYO9N4kDK_o) | Overtone, Sonic Pi
+Sam Aaron | [Programming as Performance](https://www.youtube.com/watch?v=TK1mBqKvIyU) | Sonic Pi
 Chris Ford | [Functional Composition](https://www.youtube.com/watch?v=Mfsnlbd-4xQ) | Overtone, Leipzig
 Andrew Sorensen | [The Concert Programmer](https://www.youtube.com/watch?v=yY1FSsUV-8c) | Extempore
