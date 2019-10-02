@@ -36,5 +36,5 @@ David Yarwood | [Alda: A Music Programming Language, Built in Clojure](https://w
 ## Related lists
 Name | Maintainer | Summary
 -----|------------|-----------------
-All things livecoding | TOPLAP | A curated list of live coding languages and tools
+[All things livecoding](https://github.com/toplap/awesome-livecoding) | TOPLAP | A curated list of live coding languages and tools
 
