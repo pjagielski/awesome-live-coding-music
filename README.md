@@ -32,3 +32,9 @@ Sam Aaron | [Programming as Performance](https://www.youtube.com/watch?v=TK1mBqK
 Chris Ford | [Functional Composition](https://www.youtube.com/watch?v=Mfsnlbd-4xQ) | Overtone, Leipzig
 Andrew Sorensen | [The Concert Programmer](https://www.youtube.com/watch?v=yY1FSsUV-8c) | Extempore
 David Yarwood | [Alda: A Music Programming Language, Built in Clojure](https://www.youtube.com/watch?v=uJ3WBbhLAuI) | Alda
+
+## Related lists
+Name | Maintainer | Summary
+-----|------------|-----------------
+All things livecoding | TOPLAP | A curated list of live coding languages and tools
+
