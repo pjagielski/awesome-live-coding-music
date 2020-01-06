@@ -9,11 +9,12 @@ Name | Summary | Language
 [SuperCollider](https://github.com/supercollider/supercollider/) | platform for audio synthesis and algorithmic composition | Smalltalk-like (SClang)
 [Sonic Pi](https://github.com/samaaron/sonic-pi) | complete open source programming environment originally designed to explore and teach programming concepts | Ruby
 [Overtone](https://github.com/overtone/overtone) | open source audio environment designed to explore new musical ideas from synthesis and sampling to instrument building, live-coding and collaborative jamming | Clojure
-[Tidal](https://github.com/tidalcycles/Tidal) | language for live coding of pattern | Haskell
+[TidalCycles](https://github.com/tidalcycles/Tidal) | language for live coding of pattern | Haskell
 [Alda](https://github.com/alda-lang/alda) | music programming language for musicians | Alda/Clojure
 [Gibber](https://github.com/charlieroberts/Gibber) | live coding environment for the web browser | Javascript
 [Extempore](https://github.com/digego/extempore) | cyber-physical programming environment | Scheme-like
 [FoxDot](https://github.com/Qirky/FoxDot) | pre-processed Python programming environment that provides a fast and user-friendly abstraction to SuperCollider | Python
+[ORCΛ](https://github.com/hundredrabbits/Orca) | esoteric programming language designed to quickly create procedural sequencers | JavaScript
 
 ## Libraries
 Name | Summary | Language 
@@ -32,6 +33,18 @@ Sam Aaron | [Programming as Performance](https://www.youtube.com/watch?v=TK1mBqK
 Chris Ford | [Functional Composition](https://www.youtube.com/watch?v=Mfsnlbd-4xQ) | Overtone, Leipzig
 Andrew Sorensen | [The Concert Programmer](https://www.youtube.com/watch?v=yY1FSsUV-8c) | Extempore
 David Yarwood | [Alda: A Music Programming Language, Built in Clojure](https://www.youtube.com/watch?v=uJ3WBbhLAuI) | Alda
+Alex McLean | [Algorave: algorithmic dance culture TEDxHull](https://www.youtube.com/watch?v=nAGjTYa95HM) | TidalCycles
+
+## Performances
+Author | Summary | Environment
+-------|---------|------------
+Sébastien Rannou (mxs) | [Daft Punk - Aerodynamic with Sonic Pi](https://www.youtube.com/watch?v=cydH_JAgSfg) | Sonic Pi
+Ryan Kirkbride | [Live Coding Pop Music with Python and SuperCollider](https://www.youtube.com/watch?v=xXNB1BbKY8A) | FoxDot
+Sam Aaron | [Outrun](https://www.youtube.com/watch?v=rnCE7hxNGXw) | Sonic Pi
+Mike Hodnick (kindohm) | [Live @ ICLC 2016, Hamilton, Ontario](https://www.youtube.com/watch?v=smQOiFt8e4Q) | TidalCycles
+Joseph Wilk | [RubyConf 2018 - d[-_-]b REPL-ELECTRIC](https://www.youtube.com/watch?v=jVgGYFfifAs) | Sonic Pi
+Piotr Jagielski | ["Shape Of You" live coded with Overtone](https://www.youtube.com/watch?v=r8YKC7Qugm8) | Overtone, Disclojure
+
 
 ## Related lists
 Name | Maintainer | Summary
