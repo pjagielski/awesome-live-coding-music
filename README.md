@@ -15,6 +15,7 @@ Name | Summary | Language
 [Extempore](https://github.com/digego/extempore) | cyber-physical programming environment | Scheme-like
 [FoxDot](https://github.com/Qirky/FoxDot) | pre-processed Python programming environment that provides a fast and user-friendly abstraction to SuperCollider | Python
 [ORCΛ](https://github.com/hundredrabbits/Orca) | esoteric programming language designed to quickly create procedural sequencers | JavaScript
+[Punkt](https://github.com/pjagielski/punkt) | live coding music library/environment for Kotlin, for software developers who want to dive into live coding music | Kotlin
 
 ## Libraries
 Name | Summary | Language 
@@ -42,8 +43,9 @@ Sébastien Rannou (mxs) | [Daft Punk - Aerodynamic with Sonic Pi](https://www.yo
 Ryan Kirkbride | [Live Coding Pop Music with Python and SuperCollider](https://www.youtube.com/watch?v=xXNB1BbKY8A) | FoxDot
 Sam Aaron | [Outrun](https://www.youtube.com/watch?v=rnCE7hxNGXw) | Sonic Pi
 Mike Hodnick (kindohm) | [Live @ ICLC 2016, Hamilton, Ontario](https://www.youtube.com/watch?v=smQOiFt8e4Q) | TidalCycles
-Joseph Wilk | [RubyConf 2018 - d[-_-]b REPL-ELECTRIC](https://www.youtube.com/watch?v=jVgGYFfifAs) | Sonic Pi
+Joseph Wilk | [RubyConf 2018 - REPL-ELECTRIC](https://www.youtube.com/watch?v=jVgGYFfifAs) | Sonic Pi
 Piotr Jagielski | ["Shape Of You" live coded with Overtone](https://www.youtube.com/watch?v=r8YKC7Qugm8) | Overtone, Disclojure
+Piotr Jagielski | [Daft Punk - "Da Funk" Quarantine Remix](https://www.youtube.com/watch?v=OdQQJPpL6Lo&t=138s) | Punkt, Kotlin
 
 
 ## Related lists
