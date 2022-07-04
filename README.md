@@ -4,8 +4,8 @@ A curated list of awesome Music Live Coding Music environments, libraries and ta
 **Pull requests welcome!**
 
 ## Environments
-Name | Summary | Language 
------| ----- | --------- 
+Name | Summary | Language
+-----| ----- | ---------
 [SuperCollider](https://github.com/supercollider/supercollider/) | platform for audio synthesis and algorithmic composition | Smalltalk-like (SClang)
 [Sonic Pi](https://github.com/samaaron/sonic-pi) | complete open source programming environment originally designed to explore and teach programming concepts | Ruby
 [Overtone](https://github.com/overtone/overtone) | open source audio environment designed to explore new musical ideas from synthesis and sampling to instrument building, live-coding and collaborative jamming | Clojure
@@ -16,10 +16,11 @@ Name | Summary | Language
 [FoxDot](https://github.com/Qirky/FoxDot) | pre-processed Python programming environment that provides a fast and user-friendly abstraction to SuperCollider | Python
 [ORCΛ](https://github.com/hundredrabbits/Orca) | esoteric programming language designed to quickly create procedural sequencers | JavaScript
 [Punkt](https://github.com/pjagielski/punkt) | live coding music library/environment for Kotlin, for software developers who want to dive into live coding music | Kotlin
+[Gwion](https://github.com/Gwion/Gwion) | a programming language designed for making music and sound inspired by ChucK but also has a REPL mode you can use for live-coding | Gwion
 
 ## Libraries
-Name | Summary | Language 
------| ----- | --------- 
+Name | Summary | Language
+-----| ----- | ---------
 [Klangmeister](https://github.com/ctford/klangmeister) | musical scratchpad | ClojureScript
 [Leipzig](https://github.com/ctford/leipzig) | composition library for Clojure and Clojurescript | Clojure, ClojureScript
 [Disclojure](https://github.com/pjagielski/disclojure) | live coding environment for Overtone and Leipzig | Clojure
