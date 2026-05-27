@@ -17,6 +17,8 @@ Name | Summary | Language
 [ORCΛ](https://github.com/hundredrabbits/Orca) | esoteric programming language designed to quickly create procedural sequencers | JavaScript
 [Punkt](https://github.com/pjagielski/punkt) | live coding music library/environment for Kotlin, for software developers who want to dive into live coding music | Kotlin
 [Gwion](https://github.com/Gwion/Gwion) | a programming language designed for making music and sound inspired by ChucK but also has a REPL mode you can use for live-coding | Gwion
+[Strudel](https://strudel.cc) | web-based environment for live coding algorithmic patterns, port of TidalCycles to JavaScript | JavaScript
+[StrudelHub](https://strudelhub.com) | browser-based collaborative live coding platform built on Strudel, with real-time sessions an AI agent can drive via REST API | JavaScript
 
 ## Libraries
 Name | Summary | Language
