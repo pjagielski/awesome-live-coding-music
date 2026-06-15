@@ -17,6 +17,7 @@ Name | Summary | Language
 [ORCΛ](https://github.com/hundredrabbits/Orca) | esoteric programming language designed to quickly create procedural sequencers | JavaScript
 [Punkt](https://github.com/pjagielski/punkt) | live coding music library/environment for Kotlin, for software developers who want to dive into live coding music | Kotlin
 [Gwion](https://github.com/Gwion/Gwion) | a programming language designed for making music and sound inspired by ChucK but also has a REPL mode you can use for live-coding | Gwion
+[Auwen](https://www.soniare.net/auwen?f=pjagielski-al) | a CLI app for improvising music live with headphone cueing, visuals, sampling/synthesis & multiplayer. | Auwen CLI & C#
 
 ## Libraries
 Name | Summary | Language
