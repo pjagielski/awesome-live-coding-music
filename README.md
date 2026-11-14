@@ -53,4 +53,5 @@ Piotr Jagielski | [Daft Punk - "Da Funk" Quarantine Remix](https://www.youtube.c
 Name | Maintainer | Summary
 -----|------------|-----------------
 [All things livecoding](https://github.com/toplap/awesome-livecoding) | TOPLAP | A curated list of live coding languages and tools
+- [FM-1 Emulator](https://fm1-emulator.atst.tools/) - Free browser emulator for the M-VAVE FM-1 pocket synth; plays stock and 200+ community firmwares
 
